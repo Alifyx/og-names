@@ -6513,6 +6513,7 @@ perceived
 percent
 percentage
 perception
+perchance https://dictionary.cambridge.org/dictionary/english/perchance
 perfect
 perfectly
 perform
